@@ -1,0 +1,14 @@
+新浪微博：
+App Key：134606915
+App Secret：aaca8be53a57bea17f895820d6d6d8bc
+
+腾讯微博：
+APP ID:801495928
+APP KEY:2bf1dbaef9c9fcfded3792ea490035ac
+
+QQ空间：
+APP ID：101058778
+APP KEY：4283feaa911e182fea63e1d68b0c3246
+
+域名必须为www.88mai.com,2014.07月过期，得重新申请
+其他的不行
